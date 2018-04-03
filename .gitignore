@@ -65,3 +65,10 @@ target/
 
 #OSx Related
 .DS_Store
+
+#Tensorflow
+/checkpoint
+*.p
+save.data-00000-of-00001
+save.index
+save.meta
